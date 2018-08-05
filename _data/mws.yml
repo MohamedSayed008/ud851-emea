@@ -128,7 +128,7 @@
   links:
     - title: Github
       icon: github
-      url: https://github.com/MohamedSayed008/mws-restaurant-stage-1
+      url: https://github.com/MohamedSayed008/Udacity-RestaurantApp
   description: |
     Restaurant Progressive App that allow users to mark restaurants as favorite and add reviews to any restaurant while the user either online or offline.
     
